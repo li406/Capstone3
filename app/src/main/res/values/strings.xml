@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="edit_name">Enter Name</string>
+    <string name="signup">SIGN UP</string>
+    <string name="appName">IU People</string>
+    <string name="user_name">Username</string>
+    <string name="pass">Passphrase</string>
+    <string name="logIn">LOGIN</string>
+    <color name="red">#A90533</color>
+    <color name="white">#FFFFFF</color>
+    <string name="trouble_shoot"><a href="https://kb.iu.edu/d/alpu"><u>Trouble logging in?</u></a></string>
+</resources>
